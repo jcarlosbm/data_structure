@@ -1,0 +1,4 @@
+*.class
+*.o
+Main*
+META-INF
